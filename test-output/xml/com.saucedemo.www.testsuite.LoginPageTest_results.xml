@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.020">
+  <properties />
+  
+  
+            <testcase name="userShouldLoginSuccessfullyWithValidCredentials" time="0.382" classname="com.saucedemo.www.testsuite.LoginPageTest" />
+                <testcase name="verifyThatSixProductsAreDisplayedOnPage" time="0.638" classname="com.saucedemo.www.testsuite.LoginPageTest" />
+      
+</testsuite>
